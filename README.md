@@ -1,1 +1,1 @@
-# ReqnRollReplication
+See bug replication by running ReqnrollQuickstart.Specs
